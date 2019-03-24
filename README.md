@@ -1,2 +1,2 @@
 # Stochastic-Macroeconomic-Model
-Term paper: Theoretic macroeconomics models with Monte-Carlo simulation
+Term paper: Theoretic macroeconomics model with Monte-Carlo simulation
